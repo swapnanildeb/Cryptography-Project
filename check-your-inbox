@@ -1,0 +1,251 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>
+
+</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<meta name="viewport" content="width=800" />
+<meta name="description" content="" />
+<meta name="generator" content="EverWeb 1.3 (1209)" />
+<meta name="buildDate" content="Wednesday, March 26, 2014" />
+<link rel="stylesheet" type="text/css" href="ew_css/textstyles.css" />
+
+<style type="text/css">
+.shape_0 {
+background-color:#26D543;
+}
+
+#navmenu_menu0 {
+clear:both;
+float:left;
+margin:0;
+padding:0;
+width:100%;
+font-family:'Arial',sans-serif;
+font-size:17px;
+z-index:1000;
+position:relative;
+}
+#navmenu_menu0 ul {
+margin:0;
+padding:0;
+list-style:none;
+position:relative;
+}
+#navmenu_menu0 ul li {
+margin:0 25px 0 0;
+padding:0;
+float:left;
+position:relative;
+}
+#navmenu_menu0 ul li a {
+display:block;
+margin:0;
+padding:0px;
+height: 20px;
+line-height: 20px;
+text-decoration:none;
+color:#FEFFFF;
+font-weight:bold;
+text-align: left;
+}
+#navmenu_menu0 ul li.active a {
+text-decoration:none;
+color:#FEFFFF;
+}
+#navmenu_menu0 ul li a:hover {
+text-decoration:underline;
+color:#FEFFFF;
+}
+#navmenu_menu0 ul li:hover a,
+#navmenu_menu0 ul li.hover a {
+text-decoration:underline;
+color:#FEFFFF;
+}
+#navmenu_menu0 ul ul {
+display:none;
+position:absolute;
+left:0;
+float:left;
+right:auto;
+padding-top:2px;
+}
+#navmenu_menu0 ul ul li {
+left:auto;
+margin:0;
+clear:left;
+float:left;
+width:100%;
+}
+#navmenu_menu0 ul ul li a,
+#navmenu_menu0 ul li.active li a,
+#navmenu_menu0 ul li:hover ul li a,
+#navmenu_menu0 ul li.hover ul li a {
+background:#FFFFFF;
+text-decoration:none;
+color:#FEFFFF;
+border-bottom:1px solid black;
+float:left;
+width:100%;
+text-align: left;
+white-space:nowrap;
+}
+#navmenu_menu0 ul ul li a:hover,
+#navmenu_menu0 ul li.active ul li a:hover,
+#navmenu_menu0 ul li:hover ul li a:hover,
+#navmenu_menu0 ul li.hover ul li a:hover {
+background:#FFFFFF;
+text-decoration:underline;
+color:#FEFFFF;
+float:left;
+}
+#navmenu_menu0 ul li.last ul {
+left:auto; 
+right:0;
+}
+#navmenu_menu0 ul li.last ul li {
+float:right;
+position:relative;
+right:0px;
+}
+#navmenu_menu0 ul li:hover ul,
+#navmenu_menu0 ul li.hover ul {
+display:block; /* Show the sub menus */
+}
+body {
+background: url('images/check-your-inbox/browser/tumblr_lsudn1Xqjy1qzunn4o1_400.gif');
+margin: 30px auto;
+}
+
+
+div.container {
+margin: 30px auto;
+width: 800px;
+height: 1219px;
+}
+@media only screen and (-moz-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-devicepixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+	body {
+}
+}
+@media only screen and (-moz-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-devicepixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+	div.container {
+}
+}
+</style>
+</head>
+<body>
+<div class="shadow">
+<div class="container">
+<header>
+<div style="position:relative"><div class="shape_0" style="left:9px;top:101px;height:43px;width:780px;z-index: 0;position: absolute;"></div></div>
+
+<div style="position:relative"><div class="ewnavmenu" id="navmenu_menu0" style="left:30px;top:115px;height:20px;width:738px;z-index:10001;position:absolute;"><ul><li><a class="main item0" href="index.html">Home</a></li><li><a class="main item1" href="send-message.html">Send Message</a></li><li><a class="main item2" href="check-your-inbox.html">Check your Inbox</a></li><li><a class="main item3" href="your-friends.html">Your Friends</a></li><li><a class="main item4" href="contact-us.html">Contact Us</a></li><li  style='margin-right:0px;'class="last"><a class="main item5" href="about-us.html">About Us</a></li></ul></div></div>
+
+<div style="position:relative"><div class="shape_2" style="left:8px;top:39px;height:130px;width:454px;z-index: 2;position: absolute;"><div style="margin: 4.32px 0px 4.32px 0px; "><p style="line-height:58px;margin-top:0px;margin-bottom:11.25px;" class="Style5">Check your Inbox</p></div></div></div>
+</header>
+<div class="content">
+<div style="position:relative"><div style="left:54px;top:227px;height:422px;width:684px;position:absolute;z-index: 3;"><!DOCTYPE html>
+<html>
+<script type="text/javascript" src="script.js"></script>
+<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+<body>
+<form>
+<input type=“oTable”>
+$(document).ready(function() {
+/* Init DataTables */
+var oTable = $(‘#oTable').dataTable();
+input<
+
+/* Apply the jEditable handlers to the table */
+
+for (int i = 0; i <= oTable; i++)
+{
+$('td', oTable.fnGetNodes()).editable( '../examples_support/editable_ajax.php', {
+"callback": function( sValue, y ) {
+var aPos = oTable.fnGetPosition( this );
+oTable.fnUpdate( sValue, aPos[0], aPos[1] );
+},
+"submitdata": function ( value, settings ) {
+return {
+"row_id": this.parentNode.getAttribute('id'),
+"column": oTable.fnGetPosition( this )[2]
+};
+},
+"height": "14px"
+} );
+}
+
+<!-- start table -->
+<table class="ew-table">
+<!-- table headers -->
+<tr>
+<th>Sender</th>
+<th>Subject</th>
+<!-- Add more headers as necessary -->
+</tr>
+<!-- Row 1 -->
+<tr>
+<td class="info"></td>
+<td>
+<br /></td>
+<!-- Add more columns (td) as necessary -->
+</tr>
+<!-- Row 2 -->
+<tr>
+<td class="info"></td>
+<td><br /></td>
+<!-- Add more columns (td) as necessary -->
+</tr>
+<!-- Row 3 -->
+<tr>
+<td class="info"></td>
+<td><br /></td>
+<!-- Add more columns (td) as necessary -->
+</tr>
+<!-- Add more rows as necessary -->
+</table>
+} );
+</form>
+</body>
+</html>
+
+<style type="text/css">          
+.ew-table {         /* table overall border styles*/
+     border: solid 1px #000;
+     border-collapse: collapse;
+     width: 100%;
+     height: auto;}
+.ew-table  th {      /* table header styles */
+     align: center;
+     font: normal 50px "TrebuchetMS", Helvetica, sans-serif;
+     color:#CCCCCC;
+     padding: 50px;
+     border: 1px solid #000;
+     background-color: #444;}
+.ew-table tr {           /* row border styles */
+     border: solid #000 2px;}
+.ew-table td {           /* column styles */
+     padding: 20px 50px;
+     width: auto;     
+     font: normal 15px "Verdana", Helvetica, sans-serif;
+     border: 1px solid #000;
+     background-color: #FEFEFE;}
+.ew-table td.info {           /* first column styles */
+     padding:  20px 50px;     
+     font: normal 15px "Verdana", Helvetica, sans-serif;
+     color: #EEEEEE;
+     font-style: italic;
+     border: 1px solid #000;
+     background-color: #666;}
+</style>
+
+</div></div>
+</div>
+<footer>
+
+</footer>
+</div>
+</div>
+</body>
+</html>
