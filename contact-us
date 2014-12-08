@@ -1,0 +1,239 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>
+
+</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<meta name="viewport" content="width=800" />
+<meta name="description" content="" />
+<meta name="generator" content="EverWeb 1.3 (1209)" />
+<meta name="buildDate" content="Wednesday, March 26, 2014" />
+<link rel="stylesheet" type="text/css" href="ew_css/textstyles.css" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="ew_js/ew_contactform.js"></script>
+<link rel="stylesheet" type="text/css" href="ew_css/ew_contactform.css" />
+
+	<script>
+	 $(window).ready(function() {
+	$('#form_5').simpleContactForm (
+	{
+	url : "/ew_PHP/ew_contactform.php",
+	type: "POST",  
+	subject : "New message from your website",    
+	clearAfterSend : true,	 			
+	errorClass : "error",								
+	success : function() {
+	alert('Your message has been sent!');
+	}
+		
+});
+
+ });
+</script>
+<style>
+	form.ew_custom_contact_5 label {color:#FEFFFF;font-family:Arial;font-size:12px }
+</style>
+              
+<style type="text/css">
+.shape_0 {
+background-color:#41D83C;
+}
+
+#navmenu_menu0 {
+clear:both;
+float:left;
+margin:0;
+padding:0;
+width:100%;
+font-family:'Arial',sans-serif;
+font-size:17px;
+z-index:1000;
+position:relative;
+}
+#navmenu_menu0 ul {
+margin:0;
+padding:0;
+list-style:none;
+position:relative;
+}
+#navmenu_menu0 ul li {
+margin:0 25px 0 0;
+padding:0;
+float:left;
+position:relative;
+}
+#navmenu_menu0 ul li a {
+display:block;
+margin:0;
+padding:0px;
+height: 20px;
+line-height: 20px;
+text-decoration:none;
+color:#FEFFFF;
+font-weight:bold;
+text-align: left;
+}
+#navmenu_menu0 ul li.active a {
+text-decoration:none;
+color:#FEFFFF;
+}
+#navmenu_menu0 ul li a:hover {
+text-decoration:underline;
+color:#FEFFFF;
+}
+#navmenu_menu0 ul li:hover a,
+#navmenu_menu0 ul li.hover a {
+text-decoration:underline;
+color:#FEFFFF;
+}
+#navmenu_menu0 ul ul {
+display:none;
+position:absolute;
+left:0;
+float:left;
+right:auto;
+padding-top:2px;
+}
+#navmenu_menu0 ul ul li {
+left:auto;
+margin:0;
+clear:left;
+float:left;
+width:100%;
+}
+#navmenu_menu0 ul ul li a,
+#navmenu_menu0 ul li.active li a,
+#navmenu_menu0 ul li:hover ul li a,
+#navmenu_menu0 ul li.hover ul li a {
+background:#FFFFFF;
+text-decoration:none;
+color:#FEFFFF;
+border-bottom:1px solid black;
+float:left;
+width:100%;
+text-align: left;
+white-space:nowrap;
+}
+#navmenu_menu0 ul ul li a:hover,
+#navmenu_menu0 ul li.active ul li a:hover,
+#navmenu_menu0 ul li:hover ul li a:hover,
+#navmenu_menu0 ul li.hover ul li a:hover {
+background:#FFFFFF;
+text-decoration:underline;
+color:#FEFFFF;
+float:left;
+}
+#navmenu_menu0 ul li.last ul {
+left:auto; 
+right:0;
+}
+#navmenu_menu0 ul li.last ul li {
+float:right;
+position:relative;
+right:0px;
+}
+#navmenu_menu0 ul li:hover ul,
+#navmenu_menu0 ul li.hover ul {
+display:block; /* Show the sub menus */
+}
+
+.shape_2 {
+background: url('images/contact-us/shape_2.png') no-repeat;
+}
+
+.shape_6 {
+background: url('images/contact-us/Envelope-6.png') no-repeat;
+}
+@media only screen and (-moz-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-devicepixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+
+.shape_2 {
+background: url('images/contact-us/shape_2@2x.png') no-repeat;
+background-size: 780px 234px;
+}
+
+}
+body {
+background: url('images/contact-us/browser/tumblr_lsudn1Xqjy1qzunn4o1_400.gif');
+margin: 30px auto;
+}
+
+
+div.container {
+margin: 30px auto;
+width: 800px;
+height: 1195px;
+}
+@media only screen and (-moz-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-devicepixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+	body {
+}
+}
+@media only screen and (-moz-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-devicepixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+	div.container {
+}
+}
+</style>
+</head>
+<body>
+<div class="shadow">
+<div class="container">
+<header>
+<div style="position:relative"><div class="shape_0" style="left:9px;top:101px;height:43px;width:780px;z-index: 0;position: absolute;"></div></div>
+
+<div style="position:relative"><div class="ewnavmenu" id="navmenu_menu0" style="left:30px;top:115px;height:20px;width:738px;z-index:10001;position:absolute;"><ul><li><a class="main item0" href="index.html">Home</a></li><li><a class="main item1" href="send-message.html">Send Message</a></li><li><a class="main item2" href="check-your-inbox.html">Check your Inbox</a></li><li><a class="main item3" href="your-friends.html">Your Friends</a></li><li><a class="main item4" href="contact-us.html">Contact Us</a></li><li  style='margin-right:0px;'class="last"><a class="main item5" href="about-us.html">About Us</a></li></ul></div></div>
+
+<div style="position:relative"><div class="shape_3" style="left:8px;top:39px;height:76px;width:419px;z-index: 3;position: absolute;"><div style="margin: 4.32px 0px 4.32px 0px; "><p style="line-height:58px;margin-top:0px;margin-bottom:11.25px;" class="Style5">Contact Us</p></div></div></div>
+</header>
+<div class="content">
+<div style="position:relative"><div class="shape_2" style="left:10px;top:162px;height:234px;width:780px;z-index: 2;position: absolute;"></div></div>
+
+<div style="position:relative"><div class="shape_4" style="left:30px;top:184px;height:212px;width:738px;z-index: 4;position: absolute;"><div style="margin: 4.32px 4.32px 4.32px 4.32px; "><p style="line-height:39px;margin-top:0px;margin-bottom:30px;" class="Style1">Contact</p><p style="line-height:25.5px;margin-bottom:14.25px;margin-top:0px;" class="Style2">Having problems with your Convo Encryption? Does it not work the way you expected it? Although these problems are quite unlikely, they do happen; we're all human. Therefore, we have created a forum for our highly valued customers to contact us, should you need it. Simply input your information below, and send us a message. You can also send us feedback on the website: tell us what you like, what you don't like, what you think we should change...</p></div></div></div>
+
+<div style="position:relative"><div style="left:16px;top:559px;height:246px;width:300px;position:absolute;z-index: 5;">
+			<!--300-->
+			<form class="ew_cf ew_custom_contact_5" id="form_5">
+                    <p style="margin-top:0px">
+                        <label for="contact_name">*Name: </label>
+                        <input id="contact_name" type="text" class="required"/>
+                    </p>
+                    
+                    <p>
+                        <label for="contact_email">*Email:</label>
+                        <input id="contact_email" type="email" class="email"/>
+                    </p>
+                    <p>
+                        <label for="contact_msg">*Message:</label>
+                        <textarea id="contact_msg" class="required"></textarea>
+                    </p>
+                    	<label style="display:none" for="er">*er:</label>
+                    	<input value="" type="hidden" id="er" />
+                    	
+                    <p>
+                        <button type="submit">
+                            Submit
+                        </button>
+                    </p>
+                </form>
+        </div></div>
+
+<div style="position:relative"><div class="shape_6" style="left:370px;top:511px;height:293px;width:397px;z-index: 6;position: absolute;"></div></div>
+</div>
+<footer>
+
+</footer>
+</div>
+</div>
+<script>
+function preloader() {
+if (document.images) {
+var i0=new Image();
+i0.src ='images/contact-us/shape_2.png';
+}
+}
+function addLoadEvent(func) {
+window.onload = func;
+}
+addLoadEvent(preloader);
+</script>
+</body>
+</html>
