@@ -1,0 +1,156 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>
+
+</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<meta name="viewport" content="width=800" />
+<meta name="description" content="" />
+<meta name="generator" content="EverWeb 1.3 (1209)" />
+<meta name="buildDate" content="Wednesday, March 26, 2014" />
+<link rel="stylesheet" type="text/css" href="ew_css/textstyles.css" />
+
+<style type="text/css">
+.shape_0 {
+background-color:#00DB36;
+}
+
+#navmenu_menu0 {
+clear:both;
+float:left;
+margin:0;
+padding:0;
+width:100%;
+font-family:'Arial',sans-serif;
+font-size:17px;
+z-index:1000;
+position:relative;
+}
+#navmenu_menu0 ul {
+margin:0;
+padding:0;
+list-style:none;
+position:relative;
+}
+#navmenu_menu0 ul li {
+margin:0 25px 0 0;
+padding:0;
+float:left;
+position:relative;
+}
+#navmenu_menu0 ul li a {
+display:block;
+margin:0;
+padding:0px;
+height: 20px;
+line-height: 20px;
+text-decoration:none;
+color:#FEFFFF;
+font-weight:bold;
+text-align: left;
+}
+#navmenu_menu0 ul li.active a {
+text-decoration:none;
+color:#FEFFFF;
+}
+#navmenu_menu0 ul li a:hover {
+text-decoration:underline;
+color:#FEFFFF;
+}
+#navmenu_menu0 ul li:hover a,
+#navmenu_menu0 ul li.hover a {
+text-decoration:underline;
+color:#FEFFFF;
+}
+#navmenu_menu0 ul ul {
+display:none;
+position:absolute;
+left:0;
+float:left;
+right:auto;
+padding-top:2px;
+}
+#navmenu_menu0 ul ul li {
+left:auto;
+margin:0;
+clear:left;
+float:left;
+width:100%;
+}
+#navmenu_menu0 ul ul li a,
+#navmenu_menu0 ul li.active li a,
+#navmenu_menu0 ul li:hover ul li a,
+#navmenu_menu0 ul li.hover ul li a {
+background:#FFFFFF;
+text-decoration:none;
+color:#FEFFFF;
+border-bottom:1px solid black;
+float:left;
+width:100%;
+text-align: left;
+white-space:nowrap;
+}
+#navmenu_menu0 ul ul li a:hover,
+#navmenu_menu0 ul li.active ul li a:hover,
+#navmenu_menu0 ul li:hover ul li a:hover,
+#navmenu_menu0 ul li.hover ul li a:hover {
+background:#FFFFFF;
+text-decoration:underline;
+color:#FEFFFF;
+float:left;
+}
+#navmenu_menu0 ul li.last ul {
+left:auto; 
+right:0;
+}
+#navmenu_menu0 ul li.last ul li {
+float:right;
+position:relative;
+right:0px;
+}
+#navmenu_menu0 ul li:hover ul,
+#navmenu_menu0 ul li.hover ul {
+display:block; /* Show the sub menus */
+}
+body {
+background: url('images/your-friends/browser/tumblr_lsudn1Xqjy1qzunn4o1_400.gif');
+margin: 30px auto;
+}
+
+
+div.container {
+margin: 30px auto;
+width: 800px;
+height: 1195px;
+}
+@media only screen and (-moz-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-devicepixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+	body {
+}
+}
+@media only screen and (-moz-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-devicepixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+	div.container {
+}
+}
+</style>
+</head>
+<body>
+<div class="shadow">
+<div class="container">
+<header>
+<div style="position:relative"><div class="shape_0" style="left:9px;top:101px;height:43px;width:780px;z-index: 0;position: absolute;"></div></div>
+
+<div style="position:relative"><div class="ewnavmenu" id="navmenu_menu0" style="left:30px;top:115px;height:20px;width:738px;z-index:10001;position:absolute;"><ul><li><a class="main item0" href="index.html">Home</a></li><li><a class="main item1" href="send-message.html">Send Message</a></li><li><a class="main item2" href="check-your-inbox.html">Check your Inbox</a></li><li><a class="main item3" href="your-friends.html">Your Friends</a></li><li><a class="main item4" href="contact-us.html">Contact Us</a></li><li  style='margin-right:0px;'class="last"><a class="main item5" href="about-us.html">About Us</a></li></ul></div></div>
+
+<div style="position:relative"><div class="shape_2" style="left:8px;top:39px;height:76px;width:419px;z-index: 2;position: absolute;"><div style="margin: 4.32px 0px 4.32px 0px; "><p style="line-height:58px;margin-top:0px;margin-bottom:11.25px;" class="Style5">Your Friends</p></div></div></div>
+</header>
+<div class="content">
+
+</div>
+<footer>
+
+</footer>
+</div>
+</div>
+</body>
+</html>
